@@ -1,0 +1,12 @@
+:root {
+    --colorPrincipal: #182A33;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1, p {
+    text-align: center;
+    color: var(--colorPrincipal);
+}
